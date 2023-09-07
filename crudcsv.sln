@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crudcsv", "crudcsv\crudcsv.csproj", "{D1CA45F1-4CCB-40F1-A3F7-75E5EF3DA7A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CA45F1-4CCB-40F1-A3F7-75E5EF3DA7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CA45F1-4CCB-40F1-A3F7-75E5EF3DA7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CA45F1-4CCB-40F1-A3F7-75E5EF3DA7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CA45F1-4CCB-40F1-A3F7-75E5EF3DA7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB140EFC-C9FC-4F23-ADB1-AD17A82D7ED2}
+	EndGlobalSection
+EndGlobal

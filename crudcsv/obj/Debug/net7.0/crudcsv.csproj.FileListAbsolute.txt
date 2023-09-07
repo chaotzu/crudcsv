@@ -1,0 +1,15 @@
+/Users/jdiazm/Projects/crudcsv/crudcsv/bin/Debug/net7.0/crudcsv
+/Users/jdiazm/Projects/crudcsv/crudcsv/bin/Debug/net7.0/crudcsv.deps.json
+/Users/jdiazm/Projects/crudcsv/crudcsv/bin/Debug/net7.0/crudcsv.runtimeconfig.json
+/Users/jdiazm/Projects/crudcsv/crudcsv/bin/Debug/net7.0/crudcsv.dll
+/Users/jdiazm/Projects/crudcsv/crudcsv/bin/Debug/net7.0/crudcsv.pdb
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.csproj.AssemblyReference.cache
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.AssemblyInfoInputs.cache
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.AssemblyInfo.cs
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.csproj.CoreCompileInputs.cache
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.dll
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/refint/crudcsv.dll
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.pdb
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/crudcsv.genruntimeconfig.cache
+/Users/jdiazm/Projects/crudcsv/crudcsv/obj/Debug/net7.0/ref/crudcsv.dll
